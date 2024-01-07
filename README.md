@@ -1,0 +1,3 @@
+- A git repository for understanding OOPS, design patters and in general, how to code.
+- Learn new ways of decorating your codes
+- Hopefully it will create an impact
