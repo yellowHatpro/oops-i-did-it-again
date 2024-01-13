@@ -154,6 +154,8 @@
 	```
 
 ## DESIGN PATTERNS
-- ### Strategy Design Patternm
-- 
-
+- ### Strategy Design Pattern or Policy Pattern
+	- When the children classes have similar code
+	- This results in duplication
+	- Strategy Design Pattern uses *composition (has-a relation)* instead of *inheritance (is-a relation)*.
+	- ![[strategy-pattern.png]]
